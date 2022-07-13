@@ -1,7 +1,44 @@
-default: 1.90
-visible: [1.90, 3.20, 5.50]
-min: [0.05, 6.00, 15.00, 60.00]
-max: [5.50, 10.00, 50.00, 150.00]
-increment: [0.05, 0.50, 5.00, 10.00]
-
+-
+    ppp_year: 2011
+    default: 1.90
+    visible: [1.90, 3.20, 5.50]
+    ranges:
+    -    
+        min: 0.05
+        max: 5.50
+        increment: 0.05
+    -    
+        min: 6.00
+        max: 10.00
+        increment: 0.50
+    -   
+        min: 15.00
+        max: 50.00
+        increment: 5.00
+    -   
+        min: 60.00
+        max: 150.00
+        increment: 10.00
+    
+-
+    ppp_year: 2017
+    default: 2.5
+    visible: [1.90, 3.20, 5.50]
+    ranges:
+    -    
+        min: 0.05
+        max: 5.50
+        increment: 0.05
+    -    
+        min: 6.00
+        max: 10.00
+        increment: 0.50
+    -   
+        min: 15.00
+        max: 50.00
+        increment: 5.00
+    -   
+        min: 60.00
+        max: 150.00
+        increment: 10.00
 
