@@ -45,7 +45,7 @@
 -
     ppp_year: 2021
     default: 3
-    visible: [3, 4.3, 8]
+    visible: [3, 4.2, 8.3]
     ranges:
     -    
         min: 0.05
