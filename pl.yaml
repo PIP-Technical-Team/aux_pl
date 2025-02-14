@@ -42,3 +42,25 @@
         max: 150.00
         increment: 10.00
 
+-
+    ppp_year: 2021
+    default: 3
+    visible: [3, 4.3, 8]
+    ranges:
+    -    
+        min: 0.05
+        max: 6.95
+        increment: 0.05
+    -    
+        min: 7.00
+        max: 10.00
+        increment: 0.50
+    -   
+        min: 15.00
+        max: 50.00
+        increment: 5.00
+    -   
+        min: 60.00
+        max: 150.00
+        increment: 10.00
+
