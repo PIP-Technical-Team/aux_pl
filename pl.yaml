@@ -54,7 +54,7 @@
     -    
         min: 7.00
         max: 10.00
-        increment: 0.50
+        increment: 0.15
     -   
         min: 15.00
         max: 50.00
